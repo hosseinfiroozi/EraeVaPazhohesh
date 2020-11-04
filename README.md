@@ -7,7 +7,7 @@
 ---
 + [حساب گیت هاب](https://github.com/hosseinfiroozi)
 + [آدرس رزومه](https://hosseinfiroozi.github.io/EraeVaPazhohesh)
-+ [sop](https://mehrshad1377.github.io/SOP/)
++ [sop](https://hosseinfiroozi.github.io/SOP)
 
 
 -------------------
