@@ -6,8 +6,8 @@
 
 ---
 + [حساب گیت هاب](https://github.com/hosseinfiroozi)
-+ [آدرس رزومه](https://hosseinfiroozi.github.io/EraeeVaPazhohesh)
-+ [sop](https://hosseinfiroozi.github.io/SOP)
++ [ رزومه](https://hosseinfiroozi.github.io/EraeeVaPazhohesh)
++ [انگیزنامه](https://hosseinfiroozi.github.io/SOP)
 
 
 -------------------
