@@ -6,7 +6,7 @@
 
 ---
 + [حساب گیت هاب](https://github.com/hosseinfiroozi)
-+ [ رزومه](https://hosseinfiroozi.github.io/EraeeVaPazhohesh)
++ [ رزومه](https://hosseinfiroozi.github.io/PNU_3991_AR)
 + [انگیزنامه](https://hosseinfiroozi.github.io/SOP)
 
 
