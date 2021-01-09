@@ -15,8 +15,8 @@
 -------------------
 
 ### فعالیت گروهی
-+ [روش پژوهش پایان نامه مهندسی نرم افزار از دانشگاه صنعتی اصفهان](https://upinja.com/do.php?filename=پایان-نامه_b7b33.pdf)
-+ [ارائه کتبی با لاتک از منابع دیگر(از صفحه 148 تا صفحه 150)](https://upinja.com/do.php?filename=148-150.pdf)
++ [روش پژوهش پایان نامه مهندسی نرم افزار از دانشگاه صنعتی اصفهان](https://github.com/hosseinfiroozi/PNU_3991_AR/blob/e142e968889287d9a705e33f2e244838bd019da7/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%86%D8%A7%D9%85%D9%87.pdf?_pjax=%23js-repo-pjax-container)
++ [ارائه کتبی با لاتک از منابع دیگر(از صفحه 148 تا صفحه 150)](https://raw.githubusercontent.com/hosseinfiroozi/PNU_3991_AR/931e2751320cd9c0f0cac2549aee154676a2932b/148-150.pdf)
 -------------------------------
 ## ترم مهر ماه 1399
 
