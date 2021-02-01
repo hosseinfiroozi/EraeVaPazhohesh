@@ -22,6 +22,7 @@
 ## فرم های ارزیابی 
 + [فرم ارزیابی رزومه و انگیزنامه](https://raw.githubusercontent.com/hosseinfiroozi/PNU_3991_AR/main/EvaluationsForms/HF_CV_CheckList_AR_3991.pdf)
 + [خلاصه ارزیابی بخش عمومی](https://raw.githubusercontent.com/hosseinfiroozi/PNU_3991_AR/3349d5a59d47063d6677a4f675755889a672cfb2/EvaluationsForms/HF_GeneralSection_CheckList_AR_3991.pdf)
++ [فرم ارزیابی درس روش های پژوهش و ارائه](https://github.com/hosseinfiroozi/PNU_3991_AR/blob/main/EvaluationsForms/HF_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 ----------------------------
 ## ترم مهر ماه 1399
